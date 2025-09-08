@@ -1,10 +1,4 @@
 @font-face {
-  font-family: TreasureMap;
-  src: url("./treasure_map/Treamd.ttf") format("truetype");
-  font-weight: normal;
-  font-style: normal;
-}
-@font-face {
   font-family: TreasureMapFont;
   src: url("./treasure-map-font/Treasuremap-Ea1vj.ttf") format("truetype");
   font-weight: normal;
