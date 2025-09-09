@@ -269,7 +269,8 @@ main {
 
 /* off-screen menu */
 .off-screen-menu {
-  background-color: #3B5667;
+  /* background-color: #3B5667; */
+  background-image: linear-gradient( #D81B24, #1A3751);
   height: 100vh;
   width: 100%;
   max-width: 300px;
